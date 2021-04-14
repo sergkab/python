@@ -1,7 +1,8 @@
 
 from tkinter import *  
   
-  
+#   proba soko
+
 def clicked():  
     lbl.configure(text="Я же просил...")  
   
