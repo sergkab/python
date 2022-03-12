@@ -44,6 +44,6 @@ for j in range(5):
 window.mainloop()
 
 '''
-
+2022 03 12 after reset HEAD~
 '''
 
